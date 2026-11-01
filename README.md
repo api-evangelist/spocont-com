@@ -64,13 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Spocont.com is a technology company that provides a platform for managing and automating contact center operations. The service offers tools for integrating communication channels, routing interactions, and analyzing performance metrics to improve customer service efficiency. It targets enterprises seeking scalable, cloud‑based contact center solutions with robust API access for custom workflows and third‑party integrations.
+spocont-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling. Attempts to locate an official website at https://spocont.com resulted in redirects to unrelated domains, and no verifiable site was found.
 
-**Areas:** Company · ContactCenter · Automation · CloudPlatform · API
+**Areas:** Company
 
 ## spocont-com on APIs.io
 
 Everything profiled for spocont-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/spocont-com/](https://apis.io/providers/spocont-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [IFRS Engine](https://apis.io/apis/spocont-com/ifrs-engine/) — MCP-native IFRS engine offering 31 IAS/IFRS standards and over 200 transaction types.
 
 ### Published properties
 
@@ -87,51 +91,13 @@ Authentication, trust centre, and vulnerability disclosure.
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://spocont.com/)
 - [Security](https://ifrcoworker.app/terms)
 
 ## API Evangelist rating
 
-**Kin Score 6.6** — minimal · rubric 0.25.0 · scored 2026-10-30
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-| Facet | Score |
-|---|---|
-| Discoverability | 48.2 |
-| Contract quality | 0.0 |
-| Contract governance | 0.0 |
-| Operational transparency | 10.5 |
-| Developer ergonomics | 0.0 |
-| Access clarity | 0.0 |
-
-**Agent readiness 27.6** — agent-aware
-
-| Agent-readiness dimension | Result |
-|---|---|
-| Spec Presence | — |
-| Agentic Access | — |
-| Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
-| Auth Clarity | served (partial credit) |
-| Idempotency | — |
-| Error Semantics | — |
-| OpenAPI Examples | — |
-| Rate Limit Signal | — |
-| Event Surface Described | — |
-| Agent Skills | — |
-| Well Known Catalog | — |
-| Consent Identity | — |
-| Agent Card | conformant |
-| Dry Run Mode | — |
-| Delegated Identity | served (partial credit) |
-| Protected Resource Metadata | verified |
-| Dynamic Client Registration | yes |
-| Agentic Commerce | — |
-| Pagination Ratio | na |
-| Operation Distinctiveness | na |
-
-**Regulatory alignment 17.6** — Horizontal (data, software, accessibility, platform)
-
-The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/spocont-com/](https://apis.io/providers/spocont-com/).
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
 ## How this profile is made
 
